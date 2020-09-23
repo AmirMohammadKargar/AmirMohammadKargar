@@ -12,11 +12,11 @@
 </a>
 
 <div align="center">
-  <img width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/401px-Fedora_logo.svg.png" >
-  <img width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" >
-  <img width="75" height="50" src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" >
-  <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png" >
-  <img width="60" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/768px-React.svg.png" >
-  <img width="50" 50height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/810px-Postgresql_elephant.svg.png" >
+  <img width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/401px-Fedora_logo.svg.png" >
+  <img width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" >
+  <img width="35" height="25" src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" >
+  <img width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png" >
+  <img width="30" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/768px-React.svg.png" >
+  <img width="25" 50height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/810px-Postgresql_elephant.svg.png" >
 </div>
 
