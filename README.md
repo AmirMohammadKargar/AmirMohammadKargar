@@ -18,5 +18,6 @@
   <img width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png" >
   <img width="30" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/768px-React.svg.png" >
   <img width="25" 50height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/810px-Postgresql_elephant.svg.png" >
+  <img width="25" 50height="25" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" >
 </div>
 
