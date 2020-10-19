@@ -5,10 +5,10 @@
 </div>
 
 
-<a align="center" href="https://AmirMohammadKargar.github.io">
-    <p align="center">
+<a  href="https://AmirMohammadKargar.github.io">
+  
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMohammadKargar&layout=compact&theme=tokyonight" alt="languages" height="165">
-    </p>
+  
 </a>
 <h3>Languages and Tools:</h3>
 <div>
