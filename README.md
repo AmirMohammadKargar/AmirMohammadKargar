@@ -10,8 +10,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMohammadKargar&layout=compact&theme=tokyonight" alt="languages" height="165">
     </p>
 </a>
-
-<div align="center">
+<h3>Languages and Tools:</h3>
   <img width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/401px-Fedora_logo.svg.png" >
   <img width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" >
   <img width="35" height="25" src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" >
@@ -19,5 +18,5 @@
   <img width="30" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/768px-React.svg.png" >
   <img width="25" 50height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/810px-Postgresql_elephant.svg.png" >
   <img width="25" 50height="25" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" >
-</div>
+
 
