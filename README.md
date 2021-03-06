@@ -10,7 +10,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMohammadKargar&layout=compact&theme=tokyonight" alt="languages" height="165">
   </p>
 </a>
-<h3>Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <div align="center">
   <img align="center" width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/401px-Fedora_logo.svg.png" >
   <img align="center" width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" >
