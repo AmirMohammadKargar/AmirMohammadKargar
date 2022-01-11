@@ -1,5 +1,5 @@
 ## Hi there I'm Amir Mohammad Kargar 👋
-  <h4>Web and Mobile Developer💻📱🙂</h4>
+  <h4>Mobile Developer📱🙂</h4>
 <div >
     <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" height="165">
    <p>
