@@ -1,7 +1,6 @@
 ## Hi there I'm Amir Mohammad Kargar 👋
   <h4>Mobile Developer📱🙂</h4>
-<div >
-    <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" height="165">
+    <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" height="200">
    <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMohammadKargar&layout=compact&theme=tokyonight" alt="languages" height="165" width="300">
   </p>
