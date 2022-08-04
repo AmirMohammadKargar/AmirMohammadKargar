@@ -1,7 +1,7 @@
 ## Hi there I'm Amir Mohammad Kargar 👋
   <h4>Just a geek Boy🙂</h4>
   <p align="center">
-    <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" height="200">
+    <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" height="300">
   </p> 
 </div>
 <p align="center">
