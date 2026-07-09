@@ -10,7 +10,7 @@ Currently exploring AI-powered applications, .NET Backend, and modern software a
 
 🚀 About Me
 
-* 📱 5+ years building production Flutter applications
+* 📱 6+ years building production applications
 * 🏗️ Passionate about Clean Architecture & scalable codebases
 * 🤖 Building AI-powered products and developer tools
 * 🐍 Backend development with Python & Django
