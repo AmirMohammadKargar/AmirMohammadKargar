@@ -1,32 +1,104 @@
-## Hi there I'm Amir Mohammad Kargar 👋
-### :man_technologist: About Me :
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building mobile applications.
+ Hi, I’m Amir Mohammad Kargar
 
-- :seedling: Exploring Technical Content Writing.
+Software Engineer • AI Enthusiast
 
-- :zap:  In my free time, I read tech articles.
+I build high-quality cross-platform applications and scalable backend systems with a strong focus on clean architecture, performance, and delightful user experiences.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/amkargar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amkargar/)
+Currently exploring AI-powered applications, .NET Backend, and modern software architecture.
+
+⸻
+
+🚀 About Me
+
+* 📱 5+ years building production Flutter applications
+* 🏗️ Passionate about Clean Architecture & scalable codebases
+* 🤖 Building AI-powered products and developer tools
+* 🐍 Backend development with Python & Django
+* ⚡ Learning .NET Core, Machine Learning & System Design
+* ✍️ Occasionally writing technical content
+* 🌍 Based in Iran
+
+⸻
+
+🛠 Tech Stack
+
+Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase" />
+</p>
+
+Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,dotnet,cs,nodejs" />
+</p>
+
+Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,vue,nuxt,html,css,tailwind" />
+</p>
+
+Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb" />
+</p>
+
+DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,figma" />
+</p>
+
+⸻
+
+
+📈 GitHub Analytics
+
 <p align="center">
-  <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" height="300">
-</p> 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AmirMohammadKargar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMohammadKargar&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirMohammadKargar&theme=tokyonight&hide_border=true"/>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amkargar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@a.m.kargar2000) 
+⸻
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AmirMohammadKargar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AmirMohammadKargar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMohammadKargar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+🌱 Currently Learning
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AmirMohammadKargar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+* Artificial Intelligence
+* Machine Learning
+* .NET Backend
+* System Design
+* Cloud Architecture
+* Kubernetes
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+⸻
 
----
-[![](https://visitcount.itsvg.in/api?id=AmirMohammadKargar&icon=2&color=0)](https://visitcount.itsvg.in)
+🤝 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/amkargar">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+<a href="https://github.com/AmirMohammadKargar">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+<a href="mailto:a.m.kargar2000@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+</p>
+
+⸻
+
+<p align="center">
+
+“Great software isn’t just code—it’s solving real problems elegantly.”
+
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AmirMohammadKargar&style=for-the-badge&color=0e75b6"/>
+</p>
